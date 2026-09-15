@@ -1,6 +1,6 @@
 fastapi>=0.100.0
 uvicorn>=0.22.0
-streamlit>=1.25.0
+streamlit>=1.63.0
 pyjwt>=2.7.0
 requests>=2.31.0
 pandas>=2.0.0
